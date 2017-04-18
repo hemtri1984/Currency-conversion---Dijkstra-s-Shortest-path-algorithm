@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_no_response">No response! Either empty file or response file does not exist.</string>
+    <string name="conversion_error">Conversion parameter not found!</string>
+</resources>

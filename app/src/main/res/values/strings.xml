@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="suffix_transactions">transactions</string>
+    <string name="title_products">Products</string>
+    <string name="transactions_for">Transactions for %s</string>
+    <string name="total_amount">Total: %s</string>
+</resources>
